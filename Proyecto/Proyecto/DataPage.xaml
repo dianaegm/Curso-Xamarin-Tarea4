@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Proyecto.DataPage"  Title="{Binding Nombre, StringFormat='Detalles de: {0}'}">
+    <ContentPage.Content>
+        
+        <StackLayout Orientation="Vertical">
+            <StackLayout Orientation="Horizontal">
+               <Label Text="Nombre"/>
+                <Label Text="{Binding Nombre}"/>
+            </StackLayout>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

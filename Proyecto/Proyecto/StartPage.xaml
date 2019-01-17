@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Proyecto.StartPage" Title="Inicio Sesión">
+    
+        
+
+        <StackLayout BackgroundColor=" Transparent" Margin="20" x:Name="Panel3" VerticalOptions="Center" >
+            
+
+            <Image Source="libro.png" WidthRequest ="80"  HeightRequest="80" HorizontalOptions="Center" VerticalOptions="Center"></Image> 
+            <Label Text="Proyecto Curso Xamarin Android" TextColor="Black" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Center"></Label>  
+            <Entry  x:Name="userEntry" Placeholder="Ingrese Usuario" HorizontalOptions="FillAndExpand" VerticalOptions="Center" />
+            <Entry  x:Name="passwordEntry" Placeholder="Ingrese Clave" IsPassword="true" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+                
+            <Button Text="Ingresar" x:Name="btnIgresar" Clicked="Login_Clicked"/>
+            <Button Text="Registrar" x:Name="btnRegistrar"/>
+                
+           
+        </StackLayout> 
+    
+</ContentPage>

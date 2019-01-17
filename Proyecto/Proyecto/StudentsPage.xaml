@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Proyecto.StudentsPage" Title="Estudiantes Registrados">
+    
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Home" x:Name="ToolbarInicio" Icon="homepage.png"/>
+        <ToolbarItem Text="Info" x:Name="ToolbaInfo" Icon="about.png" />
+        <ToolbarItem Text="Out" x:Name="ToolbarSalir" Icon="logout.png"/>
+
+    </ContentPage.ToolbarItems>
+    
+    <ContentPage.Content>
+        
+      <StackLayout  >
+            <ListView x:Name="ListaDatos" 
+            IsRefreshing="{Binding IsBusy}"
+            IsPullToRefreshEnabled="true"
+            ItemsSource="{Binding Items}"
+            RefreshCommand="{Binding RefrescarComm}">
+             
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Label Text="{Binding Nombre}" HorizontalOptions="FillAndExpand"></Label>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                
+            </ListView>
+        </StackLayout>
+        
+        
+    </ContentPage.Content>
+</ContentPage>
