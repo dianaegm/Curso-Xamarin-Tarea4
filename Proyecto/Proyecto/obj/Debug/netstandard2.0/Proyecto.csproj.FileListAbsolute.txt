@@ -29,3 +29,20 @@
 /Users/ucrandres/Documents/Diana/16,01,19/Proyecto/Proyecto/obj/Debug/netstandard2.0/Proyecto.pdb
 /Users/ucrandres/Documents/Diana/16,01,19/Proyecto/Proyecto/obj/Debug/netstandard2.0/Proyecto.csprojAssemblyReference.cache
 /Users/ucrandres/Documents/Diana/16,01,19/Proyecto/Proyecto/obj/Debug/netstandard2.0/AboutPage.xaml.g.cs
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/bin/Debug/netstandard2.0/Proyecto.deps.json
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/bin/Debug/netstandard2.0/Proyecto.dll
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/bin/Debug/netstandard2.0/Proyecto.pdb
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/obj/Debug/netstandard2.0/Proyecto.csprojAssemblyReference.cache
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/obj/Debug/netstandard2.0/AboutPage.xaml.g.cs
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/obj/Debug/netstandard2.0/DataPage.xaml.g.cs
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/obj/Debug/netstandard2.0/StartPage.xaml.g.cs
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/obj/Debug/netstandard2.0/StudentsPage.xaml.g.cs
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/obj/Debug/netstandard2.0/TabsPage.xaml.g.cs
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/obj/Debug/netstandard2.0/Proyecto.csproj.CoreCompileInputs.cache
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/obj/Debug/netstandard2.0/Proyecto.AssemblyInfoInputs.cache
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/obj/Debug/netstandard2.0/Proyecto.AssemblyInfo.cs
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/obj/Debug/netstandard2.0/Proyecto.dll
+/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/obj/Debug/netstandard2.0/Proyecto.pdb

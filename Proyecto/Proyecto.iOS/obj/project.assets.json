@@ -911,11 +911,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ucrandres/Documents/Diana/16,01,19/Proyecto/Proyecto.iOS/Proyecto.iOS.csproj",
+      "projectUniqueName": "/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto.iOS/Proyecto.iOS.csproj",
       "projectName": "Proyecto.iOS",
-      "projectPath": "/Users/ucrandres/Documents/Diana/16,01,19/Proyecto/Proyecto.iOS/Proyecto.iOS.csproj",
+      "projectPath": "/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto.iOS/Proyecto.iOS.csproj",
       "packagesPath": "/Users/ucrandres/.nuget/packages/",
-      "outputPath": "/Users/ucrandres/Documents/Diana/16,01,19/Proyecto/Proyecto.iOS/obj",
+      "outputPath": "/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ucrandres/.config/NuGet/NuGet.Config"
@@ -929,8 +929,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/ucrandres/Documents/Diana/16,01,19/Proyecto/Proyecto/Proyecto.csproj": {
-              "projectPath": "/Users/ucrandres/Documents/Diana/16,01,19/Proyecto/Proyecto/Proyecto.csproj"
+            "/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/Proyecto.csproj": {
+              "projectPath": "/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/Proyecto.csproj"
             }
           }
         }

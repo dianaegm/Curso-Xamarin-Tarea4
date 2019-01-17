@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ucrandres/Documents/Diana/16,01,19/Proyecto/Proyecto/Proyecto.csproj",
+      "projectUniqueName": "/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/Proyecto.csproj",
       "projectName": "Proyecto",
-      "projectPath": "/Users/ucrandres/Documents/Diana/16,01,19/Proyecto/Proyecto/Proyecto.csproj",
+      "projectPath": "/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/Proyecto.csproj",
       "packagesPath": "/Users/ucrandres/.nuget/packages/",
-      "outputPath": "/Users/ucrandres/Documents/Diana/16,01,19/Proyecto/Proyecto/obj",
+      "outputPath": "/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -907,11 +907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ucrandres/Documents/Diana/16,01,19/Proyecto/Proyecto.Android/Proyecto.Android.csproj",
+      "projectUniqueName": "/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto.Android/Proyecto.Android.csproj",
       "projectName": "Proyecto.Android",
-      "projectPath": "/Users/ucrandres/Documents/Diana/16,01,19/Proyecto/Proyecto.Android/Proyecto.Android.csproj",
+      "projectPath": "/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto.Android/Proyecto.Android.csproj",
       "packagesPath": "/Users/ucrandres/.nuget/packages/",
-      "outputPath": "/Users/ucrandres/Documents/Diana/16,01,19/Proyecto/Proyecto.Android/obj",
+      "outputPath": "/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ucrandres/.config/NuGet/NuGet.Config"
@@ -925,8 +925,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/ucrandres/Documents/Diana/16,01,19/Proyecto/Proyecto/Proyecto.csproj": {
-              "projectPath": "/Users/ucrandres/Documents/Diana/16,01,19/Proyecto/Proyecto/Proyecto.csproj"
+            "/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/Proyecto.csproj": {
+              "projectPath": "/Users/ucrandres/Desktop/Curso Xamarin Tarea4/Proyecto/Proyecto/Proyecto.csproj"
             }
           }
         }

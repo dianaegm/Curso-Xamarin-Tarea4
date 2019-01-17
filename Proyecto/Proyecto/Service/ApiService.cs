@@ -12,7 +12,7 @@ namespace Proyecto.Service
     {
         private const string WEB_SERVICE_URL = "https://randomuser.me/api/"; 
         public async Task<Persona[]> GetStringAsync()          {                      using (var client = new HttpClient())           {               client.BaseAddress = new Uri(WEB_SERVICE_URL);                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));               var response = await client.GetStringAsync("");                 var data = JsonConvert.DeserializeObject<Persona[]>(response);
-               
+               //
 
                 Debug.WriteLine(                    data                );                  return data;            } ;         }
         public async Task<Persona[]> GetAsync()
